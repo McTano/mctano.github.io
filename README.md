@@ -16,7 +16,7 @@ Bananatag - Software Developer. 2019-2020.
 Mammoth Interactive - Software Developer. 2019
 
 ## Projects
-[Rudolf/Truth Trees] - an interface for building truth trees and checking them with the [Carnap](https://carnap.io/) logic framework. Developed under [David Gilbert at UBC](https://philosophy.ubc.ca/profile/david-gilbert/) and included in the Carnap digital version of **[forall x UBC edition](https://carnap.philosophy.ubc.ca/book)**.
+[Rudolf/Truth Trees](https://ubc-carnap-team.github.io/Rudolf/) - an interface for building truth trees and checking them with the [Carnap](https://carnap.io/) logic framework. Developed under [David Gilbert at UBC](https://philosophy.ubc.ca/profile/david-gilbert/) and included in the Carnap digital version of **[forall x UBC edition](https://carnap.philosophy.ubc.ca/book)**.
 
 ## Stuff that I think is fun
 [The Natural Number Game in Lean](https://adam.math.hhu.de/#/g/leanprover-community/nng4)
