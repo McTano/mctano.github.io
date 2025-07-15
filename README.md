@@ -1,6 +1,6 @@
 # Tristan MacKinlay
 
-I am a PhD student at the [Computational Logic Center](https://clc.cs.uiowa.edu/site/) at the [University of Iowa](https://provost.uiowa.edu/people/herky-hawk), advised by [J. Garrett Morris](https://jgbm.github.io/). I am primarily interested in type systems, logics, functional programming, proof assistants, and mathematical foundations. Philosophically, I am also interested in the epistemological and metaphysical status of logical theories and their relation to thought and language, **up to a point**.
+As of August 2025, I am a PhD student at the [Computational Logic Center](https://clc.cs.uiowa.edu/site/) at the [University of Iowa](https://provost.uiowa.edu/people/herky-hawk), advised by [J. Garrett Morris](https://jgbm.github.io/). I am primarily interested in type systems, logics, functional programming, proof assistants, and mathematical foundations. Philosophically, I am also interested in the epistemological and metaphysical status of logical theories and their relation to thought and language, **up to a point**.
 
 ## Education
 Bachelor of Computer Science. UBC, 2021
