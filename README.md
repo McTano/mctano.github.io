@@ -18,12 +18,14 @@ University of British Columbia - Research Assistant/Open Source Developer 2019-2
 
 Bananatag - Software Developer. 2019-2020.
 
-Mammoth Interactive - Software Developer. 2019
+Mammoth Interactive - Software Developer. 2016
 
 ## Projects
 [Rudolf/Truth Trees](https://ubc-carnap-team.github.io/Rudolf/) - an interface for building truth trees and checking them with the [Carnap](https://carnap.io/) logic framework. Developed under [David Gilbert at UBC](https://philosophy.ubc.ca/profile/david-gilbert/) and included in the Carnap digital version of **[forall x UBC edition](https://carnap.philosophy.ubc.ca/book)**.
 
 ## Stuff that I think is fun
 [The Natural Number Game in Lean](https://adam.math.hhu.de/#/g/leanprover-community/nng4)
+
 [Software Foundations in Rocq](https://softwarefoundations.cis.upenn.edu/)
+
 [The original Space Jam website from 1996](https://www.spacejam.com/1996/)
